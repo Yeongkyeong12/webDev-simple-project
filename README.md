@@ -1,2 +1,2 @@
 ## webDev-simple-project
-* courses from webDev-simplifed 
+* course practice from webDev-simplifed 
